@@ -7,8 +7,7 @@ som student innen **IT og Informasjonssystemer** har jeg et brennende engasjemen
 ### 🎯 Fokusområder og Interesser:
 
 *   💻 **Fullstack Utvikling:** Jeg er lidenskapelig opptatt av å skape brukervennlige løsninger og trives med å bygge på både frontend og backend. Jeg har erfaring med moderne teknologistakker som **Next.js, React, Vite, Java, Spring Boot, Node.js, TypeScript, Prisma og PostgreSQL**.
-*   🚀 **Ny teknologi og kontinuerlig læring:** Jeg tror på kraften av kontinuerlig utvikling og holder meg oppdatert på de nyeste verktøyene, rammeverkene og programmeringsspråkene for å lage bedre og mer effektive løsninger.
-*   💡 **Realisering av Idéer:** Det er svært motiverende å ta en idé og gjøre den til et fungerende produkt. Jeg er spesielt interessert i å finne kreative løsninger på tekniske utfordringer og fokusere på brukervennlige grensesnitt.
+🚀 **Ny teknologi og kontinuerlig læring:** Jeg er opptatt av å utvikle meg kontinuerlig, holde meg oppdatert på de nyeste verktøyene, rammeverkene og programmeringsspråkene, og bruke denne kunnskapen til å lage bedre og mer effektive løsninger.
 *   🛠️ **Applikasjonsarkitektur & Design:** Jeg ønsker å forstå hvordan man bygger pålitelige, skalerbare systemer og hvordan godt databasedesign og API-struktur kan bidra til å bygge stabile applikasjoner.
 
 ---
