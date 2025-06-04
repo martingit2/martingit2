@@ -18,4 +18,3 @@ som student innen **IT og Informasjonssystemer** har jeg et brennende engasjemen
 *   Jeg jobber med å integrere **dataanalyser**, **AI-modeller** og automatiserte prosesser i et prosjekt for å hente og bruke data fra eksterne kilder.
 *   Jeg er alltid åpen for å lære nye **programmeringsspråk** og paradigmer som kan utvide min verktøykasse.
 
----
