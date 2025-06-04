@@ -1,3 +1,4 @@
+# Hei, jeg er Martin 👋
 
 En lidenskapelig student innen **IT og Informasjonssystemer** har jeg et brennende engasjement for **programvareutvikling** – fra ideutvikling til fullverdig applikasjonslansering. Jeg elsker å dykke ned i nye teknologier og utfordringer, og er alltid på jakt etter muligheter til å lære og bygge innovative løsninger.
 
@@ -21,8 +22,3 @@ En lidenskapelig student innen **IT og Informasjonssystemer** har jeg et brennen
 *   Jeg er alltid åpen for å lære nye **programmeringsspråk** og paradigmer som kan utvide min verktøykasse.
 
 ---
-
-### 🚧 Prosjektarbeid:
-
-Jeg er for øyeblikket i gang med et spennende prosjekt hvor jeg kombinerer flere teknologier: Jeg lager en **webapplikasjon** med **Vite** som frontend, **Spring Boot** som backend, og benytter **Python for AI**-komponenter. Jeg er fortsatt i starten av prosjektet, men det er et fantastisk læringsprosjekt som gir meg muligheten til å utforske både avanserte teknologier og komplekse integrasjoner mellom systemene.
-
