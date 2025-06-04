@@ -1,5 +1,4 @@
-# Hei, jeg er Martin 👋 (@martingit2)
-
+# Hei, jeg er Martin
 Som en lidenskapelig student innen **IT og Informasjonssystemer** har jeg et brennende engasjement for **programvareutvikling** – fra ideutvikling til fullverdig applikasjonslansering. Jeg elsker å dykke ned i nye teknologier og utfordringer, og er alltid på jakt etter muligheter til å lære og bygge innovative løsninger.
 
 ---
