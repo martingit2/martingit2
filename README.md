@@ -17,8 +17,7 @@ En lidenskapelig student innen **IT og Informasjonssystemer** har jeg et brennen
 ### 🌱 Hva jeg jobber med og lærer for tiden:
 
 *   Jeg er for tiden i ferd med å utvikle en **webapplikasjon** med **Vite** (med **TypeScript**) på frontend, **Spring Boot** på backend, og **Python** for AI og dataanalyse.
-*   Jeg jobber med å forbedre mine ferdigheter innen **database-spørringer** med **SQL** og integrasjonen mellom frontend, backend og AI-komponentene.
-*   Jeg utforsker ulike **testingstrategier** for større applikasjoner (Unit, Integration, E2E) for å sikre kvalitet og pålitelighet.
+*   Jeg jobber med å integrere **dataanalyser**, **AI-modeller** og automatiserte prosesser i et prosjekt for å hente og bruke data fra eksterne kilder.
 *   Jeg er alltid åpen for å lære nye **programmeringsspråk** og paradigmer som kan utvide min verktøykasse.
 
 ---
