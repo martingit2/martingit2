@@ -20,7 +20,6 @@ En lidenskapelig student innen **IT og Informasjonssystemer** har jeg et brennen
 *   Jeg utforsker ulike **testingstrategier** for større applikasjoner (Unit, Integration, E2E) for å sikre kvalitet og pålitelighet.
 *   Jeg er alltid åpen for å lære nye **programmeringsspråk** og paradigmer som kan utvide min verktøykasse.
 
-
 ---
 
 ### 🚧 Prosjektarbeid:
