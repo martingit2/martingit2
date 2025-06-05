@@ -10,4 +10,4 @@ Jeg er student i **IT og Informasjonssystemer** og har et brennende engasjement 
 
 *   Jeg er for tiden i ferd med å utvikle en **webapplikasjon** med **Vite** (med **TypeScript**) på frontend, **Spring Boot** på backend, og **Python** for AI og dataanalyse.
 *   Jeg jobber med å integrere **dataanalyser**, **AI-modeller** og automatiserte prosesser i et prosjekt for å hente og bruke data fra eksterne kilder.
-*   Jeg er alltid åpen for å lære nye **programmeringsspråk** og paradigmer som kan utvide min verktøykasse.
+*   Jeg er alltid åpen for å lære nye **programmeringsspråk** og **tilnærminger** som kan utvide min verktøykasse.
