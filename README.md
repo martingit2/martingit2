@@ -17,11 +17,11 @@ Jeg er en IT-student ved USN som brenner for å bygge komplette, skalerbare syst
 
 Mine prosjekter er der jeg omsetter teori til praksis. Jeg liker å bygge ende-til-ende-applikasjoner for å utforske ulike arkitekturer. Blant mine festede repositories finner du:
 
-*   📊 **Aracanix Analyseplattform:** Et distribuert system med en **microservice-arkitektur** for sportsanalyse. Løsningen kombinerer en robust Java-backend, en Python ML-tjeneste, en interaktiv React-frontend og en Discord-bot.
+*   📊 **Aracanix Analyseplattform:** Et distribuert system med en **microservice-arkitektur** for sportsanalyse. Løsningen kombinerer en pålitelig Java-backend, en Python ML-tjeneste, en interaktiv React-frontend og en Discord-bot.
 
 *   🛒 **Full-stack E-handelsplattform (Vegshop):** En komplett, **multi-tenant SaaS-løsning** bygget med Next.js. Inkluderer et fullverdig admin-dashboard (CMS) med Prisma og Clerk for autentisering, samt en separat butikk-frontend.
 
-*   💿 **Diskgolf.app:** En polert, fullstack-app for å spore diskgolf-resultater og turneringer. Bygget med Next.js, React, TypeScript og Supabase for en komplett brukeropplevelse.
+*   💿 **Diskgolf.app:** En polert, fullstack-app for å spore diskgolf-resultater og turneringer. Bygget med Next.js, React, TypeScript og Postgresql for en komplett brukeropplevelse.
 
 *   🧩 **Desktop-verktøy & Spill:** For å demonstrere bredde og løse praktiske problemer har jeg bygget egne **desktop-verktøy** (JavaFX, Electron) og et **interaktivt Quiz-spill** som viser solid OOP-design i Java.
 
