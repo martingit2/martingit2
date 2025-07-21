@@ -1,57 +1,31 @@
 ### 👋 Hei, jeg er Martin!
 
-<p align="left">
-  Jeg er en IT-student ved USN med et brennende engasjement for programvareutvikling – fra idé til ferdig produkt. Jeg elsker å utforske nye teknologier og er alltid på jakt etter muligheter for å lære og bygge innovative løsninger.
-</p>
+Jeg er en IT-student ved USN som brenner for å bygge komplette, skalerbare systemer fra konsept til ferdig produkt. Jeg trives best når jeg kan dykke dypt ned i moderne teknologistakker for å løse komplekse problemer og skape reell verdi.
 
 ---
 
-### 🚀 Teknologistack & Verktøy
+### 🚀 Teknologier & Verktøy
 
-<details>
-  <summary>Klikk for å se mine primære teknologier</summary>
-  
-  <table width="100%">
-    <tr>
-      <td align="center" width="20%">
-        <strong>Frontend</strong><br>
-        <code>React</code> <code>Next.js</code> <br>
-        <code>TypeScript</code> <code>Vite</code> <br>
-        <code>Tailwind CSS</code> <code>JavaFX</code>
-      </td>
-      <td align="center" width="20%">
-        <strong>Backend</strong><br>
-        <code>Java</code> <code>Spring Boot</code> <br>
-        <code>Node.js</code> <code>Express.js</code> <br>
-        <code>Python</code> <code>Flask</code>
-      </td>
-      <td align="center" width="20%">
-        <strong>Database</strong><br>
-        <code>PostgreSQL</code> <br>
-        <code>Prisma</code> <br>
-        <code>SQL</code>
-      </td>
-      <td align="center" width="20%">
-        <strong>DevOps & Desktop</strong><br>
-        <code>Git</code> <code>Vercel</code> <br>
-        <code>Heroku</code> <code>Electron</code> <br>
-        <code>Docker (Lærer meg)</code>
-      </td>
-      <td align="center" width="20%">
-        <strong>Språk</strong><br>
-        <code>TypeScript</code> <code>JavaScript</code> <br>
-        <code>Java</code> <code>Python</code> <br>
-        <code>Kotlin</code>
-      </td>
-    </tr>
-  </table>
-</details>
+*   💻 **Frontend:** `React` `Next.js` `TypeScript` `Vite` `Tailwind CSS` `JavaFX`
+*   ⚙️ **Backend:** `Java (Spring Boot)` `Node.js (Express.js)` `Python (Flask)`
+*   🗄️ **Database:** `PostgreSQL` `Prisma` `SQL`
+*   🚀 **DevOps & Desktop:** `Git` `Vercel` `Heroku` `Electron` `Docker (Lærer meg)`
 
 ---
 
 ### 🛠️ Utvalgte Prosjekter
 
-Mine mest representative prosjekter er festet nedenfor. Der finner du alt fra en full-stack e-handelsplattform til et distribuert analysesystem med mikrotjenester.
+Mine prosjekter er der jeg omsetter teori til praksis. Jeg liker å bygge ende-til-ende-applikasjoner for å utforske ulike arkitekturer. Blant mine festede repositories finner du:
+
+*   📊 **Aracanix Analyseplattform:** Et distribuert system med en **microservice-arkitektur** for sportsanalyse. Løsningen kombinerer en robust Java-backend, en Python ML-tjeneste, en interaktiv React-frontend og en Discord-bot.
+
+*   🛒 **Full-stack E-handelsplattform (Vegshop):** En komplett, **multi-tenant SaaS-løsning** bygget med Next.js. Inkluderer et fullverdig admin-dashboard (CMS) med Prisma og Clerk for autentisering, samt en separat butikk-frontend.
+
+*   💿 **Diskgolf.app:** En polert, fullstack-app for å spore diskgolf-resultater og turneringer. Bygget med Next.js, React, TypeScript og Supabase for en komplett brukeropplevelse.
+
+*   🧩 **Desktop-verktøy & Spill:** For å demonstrere bredde og løse praktiske problemer har jeg bygget egne **desktop-verktøy** (JavaFX, Electron) og et **interaktivt Quiz-spill** som viser solid OOP-design i Java.
+
+Utforsk gjerne de festede repositories nedenfor for å se koden og mer detaljerte beskrivelser.
 
 ---
 
