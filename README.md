@@ -2,16 +2,13 @@
 
 Jeg er en IT-student ved USN som brenner for å bygge komplette, skalerbare systemer fra konsept til ferdig produkt. Jeg trives best når jeg kan dykke dypt ned i moderne teknologistakker for å løse komplekse problemer og skape reell verdi.
 
----
-
 ### 🚀 Teknologier & Verktøy
 
-*   💻 **Frontend:** `React` `Next.js` `TypeScript` `Vite` `Tailwind CSS` `JavaFX`
-*   ⚙️ **Backend:** `Java (Spring Boot)` `Node.js (Express.js)` `Python (Flask)`
-*   🗄️ **Database:** `PostgreSQL` `Prisma` `SQL`
-*   🚀 **DevOps & Desktop:** `Git` `Vercel` `Heroku` `Electron` `Docker (Lærer meg)`
-
----
+*   💻 **Frontend:** `React` `Next.js` `TypeScript` `Vite` `Tailwind CSS`
+*   ⚙️ **Backend:** `Java (Spring Boot, Maven)` `Node.js (Express.js)` `Python (Flask)` `REST APIer`
+*   🗄️ **Database & Data:** `PostgreSQL` `MariaDB` `MySQL` `MongoDB` `SQL` `Prisma`
+*   🚀 **DevOps & Testing:** `Docker` `Docker Compose` `CI/CD` `GitHub Actions` `Testcontainers` `Git` `Vercel` `Heroku` `Nginx`
+*   🖥️ **Desktop:** `JavaFX` `Electron`
 
 ### 🛠️ Utvalgte Prosjekter
 
