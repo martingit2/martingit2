@@ -7,7 +7,6 @@ Jeg er en IT-student ved USN som brenner for å bygge komplette, skalerbare syst
 *   💻 **Frontend:** `React` `Next.js` `TypeScript` `Vite` `Tailwind CSS`
 *   ⚙️ **Backend:** `Java (Spring Boot, Maven)` `Node.js (Express.js)` `Python (Flask)` `REST APIer`
 *   🗄️ **Database & Data:** `PostgreSQL` `MariaDB` `MySQL` `MongoDB` `SQL` `Prisma`
-*   🔐 **Autentisering:** `Auth0` `Clerk`
 *   🚀 **DevOps & Hosting:** `Docker` `Docker Compose` `CI/CD` `GitHub Actions` `Testcontainers` `Git` `Heroku` `Supabase` `Vercel` `Nginx`
 *   🖥️ **Desktop:** `JavaFX` `Electron`
 
