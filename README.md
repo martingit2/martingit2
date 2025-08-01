@@ -7,12 +7,17 @@ Jeg er en IT-student ved USN som brenner for å bygge komplette, skalerbare syst
 *   💻 **Frontend:** `React` `Next.js` `TypeScript` `Vite` `Tailwind CSS`
 *   ⚙️ **Backend:** `Java (Spring Boot, Maven)` `Node.js (Express.js)` `Python (Flask)` `REST APIer`
 *   🗄️ **Database & Data:** `PostgreSQL` `MariaDB` `MySQL` `MongoDB` `SQL` `Prisma`
-*   🚀 **DevOps & Testing:** `Docker` `Docker Compose` `CI/CD` `GitHub Actions` `Testcontainers` `Git` `Vercel` `Heroku` `Nginx`
+*   🔐 **Autentisering:** `Auth0` `Clerk`
+*   🚀 **DevOps & Hosting:** `Docker` `Docker Compose` `CI/CD` `GitHub Actions` `Testcontainers` `Git` `Heroku` `Supabase` `Vercel` `Nginx`
 *   🖥️ **Desktop:** `JavaFX` `Electron`
 
 ### 🛠️ Utvalgte Prosjekter
 
 Mine prosjekter er der jeg omsetter teori til praksis. Jeg liker å bygge ende-til-ende-applikasjoner for å utforske ulike arkitekturer. Blant mine festede repositories finner du:
+
+*   ⚓ **FangstPortalen:** En komplett, **sikkerhetsfokusert B2B SaaS-plattform** for digital omsetning av sjømat. Arkitekturen er bygget på **streng multi-tenancy**, **rollebasert tilgangskontroll (RBAC)** og en **tilstandsdrevet transaksjonsflyt** for å garantere dataintegritet. Bygget med Java (Spring Boot), React, PostgreSQL og fullt containerisert med Docker.
+    *   **[Live Demo](https://www.fangstportalen.no)**
+    *   **[GitHub Repository](https://github.com/martingit2/FangstPortalen)**
 
 *   📊 **Aracanix Analyseplattform:** Et distribuert system med en **microservice-arkitektur** for sportsanalyse. Løsningen kombinerer en pålitelig Java-backend, en Python ML-tjeneste, en interaktiv React-frontend og en Discord-bot.
 
