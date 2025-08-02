@@ -23,7 +23,7 @@ Mine prosjekter er der jeg omsetter teori til praksis. Jeg liker å bygge ende-t
 *   🛒 **Full-stack E-handelsplattform (Vegshop):** En komplett, **multi-tenant SaaS-løsning** bygget med Next.js. Inkluderer et fullverdig admin-dashboard (CMS) med Prisma og Clerk for autentisering, samt en separat butikk-frontend.
 
 *   💿 **Diskgolf.app:** Et komplett, fullstack-økosystem for diskgolf-entusiaster og klubber, utviklet som et omfattende teamprosjekt. Applikasjonen støtter hele brukerreisen fra spiller til administrator, med funksjoner som **brukerregistrering (NextAuth), interaktive kart (React Leaflet), klubb- og baneregistrering, turneringsadministrasjon, live scoreføring, nyhetspublisering og betalingsløsninger (Stripe).** Bygget med Next.js, TypeScript og PostgreSQL (Supabase/Prisma).
-    *   **[Live Demo](https://diskgolf.app)**
+    *   **[Live Demo](https://diskgolf.app/no)**
     *   **[GitHub Repository](https://github.com/martingit2/Diskgolf)**
 
 *   🧩 **Desktop-verktøy & Spill:** For å demonstrere bredde og løse praktiske problemer har jeg bygget egne **desktop-verktøy** (JavaFX, Electron) og et **interaktivt Quiz-spill** som viser solid OOP-design i Java.
