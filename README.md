@@ -14,7 +14,7 @@ Jeg er en IT-student ved USN som brenner for å bygge komplette, skalerbare syst
 
 Mine prosjekter er der jeg omsetter teori til praksis. Jeg liker å bygge ende-til-ende-applikasjoner for å utforske ulike arkitekturer. Blant mine festede repositories finner du:
 
-*   ⚓ **FangstPortalen:** En komplett, **sikkerhetsfokusert B2B SaaS-plattform** for digital omsetning av sjømat. Arkitekturen er bygget på **streng multi-tenancy**, **rollebasert tilgangskontroll (RBAC)** og en **tilstandsdrevet transaksjonsflyt** for å garantere dataintegritet. Bygget med Java (Spring Boot), React, PostgreSQL og fullt containerisert med Docker.
+*   ⚓ **Fangstportalen:** En komplett, **sikkerhetsfokusert B2B SaaS-plattform** for digital omsetning av sjømat. Arkitekturen er bygget på **streng multi-tenancy**, **rollebasert tilgangskontroll (RBAC)** og en **tilstandsdrevet transaksjonsflyt** for å garantere dataintegritet. Bygget med Java (Spring Boot), React, PostgreSQL og fullt containerisert med Docker.
     *   **[Live Demo](https://www.fangstportalen.no)**
     *   **[GitHub Repository](https://github.com/martingit2/FangstPortalen)**
 
