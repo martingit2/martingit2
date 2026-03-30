@@ -1,41 +1,43 @@
-### 👋 Hei, jeg er Martin!
+### 👋 Hei, jeg er Martin
 
-Jeg er en IT-student ved USN som brenner for å bygge komplette, skalerbare systemer fra konsept til ferdig produkt. Jeg trives best når jeg kan dykke dypt ned i moderne teknologistakker for å løse komplekse problemer og skape reell verdi.
+Jeg er IT-student ved USN og liker å bygge komplette systemer fra idé til ferdig produkt. Jeg trives best i prosjekter der arkitektur, backend, frontend, dataflyt og drift må fungere sammen, og der tekniske valg faktisk har betydning for sikkerhet, skalerbarhet og brukeropplevelse.
 
-### 🚀 Teknologier & Verktøy
+Jeg er særlig interessert i fullstack-utvikling, plattformarbeid, backend-arkitektur, AI-integrasjon og produksjonsnære systemer. Målet mitt er å bygge løsninger som ikke bare fungerer i utvikling, men som er stabile, forståelige og realistiske å drifte videre.
+
+### 🚀 Teknologier og verktøy
 
 * 💻 **Frontend:** `React` `Next.js` `TypeScript` `Vite` `Tailwind CSS`
-* ⚙️ **Backend:** `Java (Spring Boot, Maven)` `Node.js (Express.js)` `Python (Django, Flask)` `REST APIer`
-* 🗄️ **Database & Data:** `PostgreSQL` `MariaDB` `MySQL` `MongoDB` `SQL` `Prisma` `pgvector`
-* 🚀 **DevOps & Hosting:** `Docker` `Docker Compose` `CI/CD` `GitHub Actions` `Testcontainers` `Git` `Heroku` `Supabase` `Vercel` `Nginx` `Redis`
+* ⚙️ **Backend:** `Java` `Spring Boot` `Maven` `Node.js` `Express.js` `Python` `Django` `Flask` `REST APIer`
+* 🗄️ **Database og data:** `PostgreSQL` `MariaDB` `MySQL` `MongoDB` `SQL` `Prisma` `pgvector`
+* 🚀 **DevOps og drift:** `Docker` `Docker Compose` `GitHub Actions` `CI/CD` `Testcontainers` `Git` `Nginx` `Heroku` `Supabase` `Vercel` `Redis`
+* 🤖 **AI og plattform:** `OpenAI API` `RAG` `Celery` `LLM-integrasjon` `Dokumentprosessering`
 * 🖥️ **Desktop:** `JavaFX` `Electron`
-* 🤖 **AI & Plattform:** `OpenAI API` `RAG` `Celery` `LLM-integrasjon` `Dokumentprosessering`
 
-### 🛠️ Utvalgte Prosjekter
+### 🛠️ Utvalgte prosjekter
 
-Mine prosjekter er der jeg omsetter teori til praksis. Jeg liker å bygge ende-til-ende-applikasjoner for å utforske ulike arkitekturer. Blant mine festede repositories finner du:
+Prosjektene mine er der jeg omsetter teori til praksis. Jeg liker spesielt godt å bygge ende-til-ende-løsninger som lar meg jobbe med arkitektur, datamodellering, API-design, brukerflyt og drift i samme prosjekt.
 
-* ⚓ **Fangstportalen:** En komplett, **sikkerhetsfokusert B2B SaaS-plattform** for digital omsetning av sjømat. Arkitekturen er bygget på **streng multi-tenancy**, **rollebasert tilgangskontroll (RBAC)** og en **tilstandsdrevet transaksjonsflyt** for å garantere dataintegritet. Bygget med Java (Spring Boot), React, PostgreSQL og fullt containerisert med Docker.
+* ⚓ **Fangstportalen:** En sikkerhetsfokusert **B2B SaaS-plattform** for digital omsetning av sjømat. Arkitekturen er bygget rundt **streng multi-tenancy**, **rollebasert tilgangskontroll (RBAC)** og en **tilstandsdrevet transaksjonsflyt** for å sikre dataintegritet og sporbarhet. Bygget med Java, Spring Boot, React, PostgreSQL og Docker.
   * **[Live Demo](https://www.fangstportalen.no)**
   * **[GitHub Repository](https://github.com/martingit2/FangstPortalen)**
 
-* 📊 **Aracanix Analyseplattform:** Et distribuert system med en **microservice-arkitektur** for sportsanalyse. Løsningen kombinerer en robust backend, en Python-basert ML-tjeneste og en frontend for presentasjon og interaksjon. Prosjektet er delt opp i egne repos for backend, frontend og maskinlæringstjeneste.
+* 📊 **Aracanix Analyseplattform:** Et distribuert system med **microservice-arkitektur** for sportsanalyse. Løsningen er delt i egne repos for backend, frontend og ML-tjeneste, og viser hvordan ulike tjenester kan samhandle i en mer modulær plattformarkitektur.
   * **[Backend](https://github.com/martingit2/AiPortal-Backend)**
   * **[Frontend](https://github.com/martingit2/AiPortal-Frontend)**
   * **[ML Service](https://github.com/martingit2/AiPortal-ML-Service)**
 
-* 🎓 **Eksamens Agent:** En fullstack **AI- og plattformorientert webapplikasjon** for eksamensforberedelse i høyere utdanning. Systemet genererer treningseksamener fra dokumentkontekst og emnemetadata, og er bygget med fokus på **skalerbar arkitektur, sikker dokumentflyt, moderasjon, bakgrunnsprosessering og produksjonsnær AI-integrasjon**. Løsningen inkluderer **RAG-pipeline, metadata-only hurtigeksamen, rolle- og tilgangsstyring, dokumentvalidering, malware-skanning, caching, købaserte jobber og kvalitetstester for generert innhold**. Bygget med Next.js, Django, Celery, PostgreSQL, pgvector, Redis og Supabase.
+* 🎓 **Eksamens Agent:** En fullstack **AI- og plattformorientert webapplikasjon** for eksamensforberedelse i høyere utdanning. Systemet genererer treningseksamener fra dokumentkontekst og emnemetadata, og er bygget med fokus på **skalerbar arkitektur, sikker dokumentflyt, moderasjon, bakgrunnsprosessering og produksjonsnær AI-integrasjon**. Løsningen inkluderer **RAG-pipeline, metadata-only hurtigeksamen, rolle- og tilgangsstyring, dokumentvalidering, malware-skanning, caching, købaserte jobber og kvalitetssikring av AI-generert innhold**. Bygget med Next.js, Django, Celery, PostgreSQL, pgvector, Redis og Supabase.
   * **[GitHub Repository](https://github.com/martingit2/eksamens-agent)**
 
-* 🛒 **Full-stack E-handelsplattform (Vegshop):** En komplett, **multi-tenant SaaS-løsning** bygget med Next.js. Inkluderer et fullverdig admin-dashboard (CMS) med Prisma og Clerk for autentisering, samt en separat butikk-frontend.
+* 🛒 **Vegshop:** En fullstack **e-handelsplattform** bygget som en **multi-tenant SaaS-løsning** med Next.js. Prosjektet inkluderer admin-dashboard, CMS-funksjonalitet, autentisering og en separat butikkfrontend.
 
-* 💿 **Diskgolf.app:** Et komplett, fullstack-økosystem for diskgolf-entusiaster og klubber, utviklet som et omfattende teamprosjekt. Applikasjonen støtter hele brukerreisen fra spiller til administrator, med funksjoner som **brukerregistrering (NextAuth), interaktive kart (React Leaflet), klubb- og baneregistrering, turneringsadministrasjon, live scoreføring, nyhetspublisering og betalingsløsninger (Stripe)**. Bygget med Next.js, TypeScript og PostgreSQL (Supabase/Prisma).
+* 💿 **Diskgolf.app:** Et komplett fullstack-økosystem for diskgolf-entusiaster og klubber, utviklet som et større teamprosjekt. Løsningen dekker hele brukerreisen fra spiller til administrator, med funksjoner som autentisering, interaktive kart, klubb- og baneregistrering, turneringsadministrasjon, live scoreføring, nyhetspublisering og betalingsløsninger.
   * **[Live Demo](https://diskgolf.app/no)**
   * **[GitHub Repository](https://github.com/martingit2/Diskgolf)**
 
-* 🧩 **Desktop-verktøy & Spill:** For å demonstrere bredde og løse praktiske problemer har jeg bygget egne **desktop-verktøy** (JavaFX, Electron) og et **interaktivt quiz-spill** som viser solid OOP-design i Java.
+* 🧩 **Desktop-verktøy og spill:** Jeg har også bygget egne desktop-verktøy i JavaFX og Electron, samt mindre applikasjoner og spill for å utforske OOP, interaksjonsdesign og praktisk problemløsing.
 
-Utforsk gjerne de festede repositories nedenfor for å se koden og mer detaljerte beskrivelser.
+Utforsk gjerne de festede repositoriene nedenfor for å se kode, arkitektur og implementasjonsdetaljer.
 
 ---
 
