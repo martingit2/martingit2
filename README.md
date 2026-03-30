@@ -19,7 +19,10 @@ Mine prosjekter er der jeg omsetter teori til praksis. Jeg liker å bygge ende-t
   * **[Live Demo](https://www.fangstportalen.no)**
   * **[GitHub Repository](https://github.com/martingit2/FangstPortalen)**
 
-* 📊 **Aracanix Analyseplattform:** Et distribuert system med en **microservice-arkitektur** for sportsanalyse. Løsningen kombinerer en pålitelig Java-backend, en Python ML-tjeneste, en interaktiv React-frontend og en Discord-bot.
+* 📊 **Aracanix Analyseplattform:** Et distribuert system med en **microservice-arkitektur** for sportsanalyse. Løsningen kombinerer en robust backend, en Python-basert ML-tjeneste og en frontend for presentasjon og interaksjon. Prosjektet er delt opp i egne repos for backend, frontend og maskinlæringstjeneste.
+  * **[Backend](https://github.com/martingit2/AiPortal-Backend)**
+  * **[Frontend](https://github.com/martingit2/AiPortal-Frontend)**
+  * **[ML Service](https://github.com/martingit2/AiPortal-ML-Service)**
 
 * 🎓 **Eksamens Agent:** En fullstack **AI- og plattformorientert webapplikasjon** for eksamensforberedelse i høyere utdanning. Systemet genererer treningseksamener fra dokumentkontekst og emnemetadata, og er bygget med fokus på **skalerbar arkitektur, sikker dokumentflyt, moderasjon, bakgrunnsprosessering og produksjonsnær AI-integrasjon**. Løsningen inkluderer **RAG-pipeline, metadata-only hurtigeksamen, rolle- og tilgangsstyring, dokumentvalidering, malware-skanning, caching, købaserte jobber og kvalitetstester for generert innhold**. Bygget med Next.js, Django, Celery, PostgreSQL, pgvector, Redis og Supabase.
   * **[GitHub Repository](https://github.com/martingit2/eksamens-agent)**
